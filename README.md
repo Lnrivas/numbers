@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Luis Rivas 
+2. Student ID: 2365948
+3. Email: lrivas@chapman.edu
+4. Class: CPSC-298-01
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,8 +16,10 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
+None
 
 ## References
+"Day12" Canvas slides
 
 ## Instructions
 To run the script with input from the included numbers-input file:
